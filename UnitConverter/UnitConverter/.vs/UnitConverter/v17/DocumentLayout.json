@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\cp-20ogo\\UnitConverter\\UnitConverter\\UnitConverter\\",
+  "WorkspaceRootPath": "C:\\TIH\\UnitConverter\\UnitConverter\\UnitConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50339ABF-FABF-422A-AF3C-50E4634B6DAD}|UnitConverter.csproj|c:\\cp-20ogo\\unitconverter\\unitconverter\\unitconverter\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50339ABF-FABF-422A-AF3C-50E4634B6DAD}|UnitConverter.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50339ABF-FABF-422A-AF3C-50E4634B6DAD}|UnitConverter.csproj|c:\\tih\\unitconverter\\unitconverter\\unitconverter\\unitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50339ABF-FABF-422A-AF3C-50E4634B6DAD}|UnitConverter.csproj|solutionrelative:unitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50339ABF-FABF-422A-AF3C-50E4634B6DAD}|UnitConverter.csproj|c:\\tih\\unitconverter\\unitconverter\\unitconverter\\angle\\angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50339ABF-FABF-422A-AF3C-50E4634B6DAD}|UnitConverter.csproj|solutionrelative:angle\\angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Angle.cs",
+              "DocumentMoniker": "C:\\TIH\\UnitConverter\\UnitConverter\\UnitConverter\\Angle\\Angle.cs",
+              "RelativeDocumentMoniker": "Angle\\Angle.cs",
+              "ToolTip": "C:\\TIH\\UnitConverter\\UnitConverter\\UnitConverter\\Angle\\Angle.cs",
+              "RelativeToolTip": "Angle\\Angle.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:21:26.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\cp-20ogo\\UnitConverter\\UnitConverter\\UnitConverter\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\cp-20ogo\\UnitConverter\\UnitConverter\\UnitConverter\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "UnitConverter.cs",
+              "DocumentMoniker": "C:\\TIH\\UnitConverter\\UnitConverter\\UnitConverter\\UnitConverter.cs",
+              "RelativeDocumentMoniker": "UnitConverter.cs",
+              "ToolTip": "C:\\TIH\\UnitConverter\\UnitConverter\\UnitConverter\\UnitConverter.cs",
+              "RelativeToolTip": "UnitConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T08:06:51.798Z",
               "EditorCaption": ""

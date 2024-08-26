@@ -1,0 +1,6 @@
+C:\TIH\UnitConverter\UnitConverter\UnitConverter\bin\Debug\UnitConverter.dll
+C:\TIH\UnitConverter\UnitConverter\UnitConverter\bin\Debug\UnitConverter.pdb
+C:\TIH\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.AssemblyReference.cache
+C:\TIH\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.CoreCompileInputs.cache
+C:\TIH\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.dll
+C:\TIH\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.pdb
