@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UnitConverter.Angle
+namespace UnitConverter
 {
     public class Angle
     {
@@ -15,7 +15,7 @@ namespace UnitConverter.Angle
         }
         protected double _angle { get; set; }
 
-        public AngleTypeEnum Type { get; set; }
+        public AngleTypeEnum? Type { get; set; } = null;
 
         public Angle(double angle, AngleTypeEnum angleType)
         {
@@ -23,6 +23,23 @@ namespace UnitConverter.Angle
             this.Type = angleType;
         }
 
-        public double 
+        public double ToDeg()
+        {
+            if(this.Type == AngleTypeEnum.DEG || this.Type == null) 
+            {
+                throw new Exception();
+            }
+            return _angle * Math.PI/180;
+        }
+
+        public double ToRad() 
+        {
+            if (this.Type == AngleTypeEnum.RAD || this.Type == null)
+            {
+                throw new Exception();
+            }
+
+            return _angle * 180 / Math.PI;
+        }
     }
 }
